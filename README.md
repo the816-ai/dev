@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Minh Anh Shop23 - Link Bio</title>
+    <title>Tâm_xinggai - Link Bio</title>
     <style>
         * {
             margin: 0;
